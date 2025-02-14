@@ -22,3 +22,5 @@ python3 -m fig.epsilon_scaling;
 python3 -m fig.gamma_scaling;
 python3 -m fig.comparison --n 128;
 ```
+
+The results are saved in `fig/figures/` and `fig/table_data`.
